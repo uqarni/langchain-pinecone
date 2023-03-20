@@ -21,3 +21,11 @@ remember, openai embeddings have 1536 dimensions
 
 # inspired by
 https://www.youtube.com/watch?v=h0DHDp1FbmQ&ab_channel=DataIndependent
+
+
+#notes for refactor:
+1. Format Tara's docs and upload them all to PineCone
+2. Create a QA bot from those
+3. Use Just call API to ask questions from the QA bot
+4. ensure it's remembering the history
+5. store all conversations in archive
